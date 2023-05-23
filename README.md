@@ -16,7 +16,7 @@ Easy to use: The site should be easy to handle and access.
 
 
 
-#Vision:
+# Vision:
 
 User-Centric Experience: The book site should prioritize the user experience, offering intuitive navigation, easy-to-use features, and personalized recommendations.
 
@@ -36,16 +36,16 @@ This product focuses on providing books in the easiest way for book lovers and s
 
 
 
-#Scope
+# Scope
 
-##IN
+## IN
 
 A website can provide a platform for users to discover new books based on their interests, genres, author preferences, or popular trends. This can be accomplished through curated book lists, featured titles, or user-generated content, and may have reading features. A website can offer reading-related features such as the ability to preview a book, bookmark pages, or take notes.
 
 
 
 
-##OUT
+## OUT
 
 The application will not be supported in stores for phones such as IOS or Android.
 
@@ -62,7 +62,7 @@ What will your MVP functionality be? providing the benefit to the user to view t
 
 
 
-#Functional Requirements
+# Functional Requirements
 
 A user can Add the book for which list.&nbsp;
 A user can update the book information.&nbsp;
@@ -73,7 +73,7 @@ A user can see all book in each categore.
 
 
 
-#Non-Functional Requirements
+# Non-Functional Requirements
 
 Usability: The interface will be easy and suitable for all ages, and it can be understood and dealt with due to the presence of appropriate and colors and buttons.
 
